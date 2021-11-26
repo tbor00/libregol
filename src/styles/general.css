@@ -1,0 +1,72 @@
+:root {
+    --colorPrimary: #1f1d36;
+    --colorSecondary: #3f3351;
+    --colorTertiary: #864879;
+    --colorQuaternary: #e9a6a6;
+    --colorBlack: #000000;
+    --colorWhite: #ffffff;
+}
+
+.bg-navbar {
+    background-color: var(--colorSecondary);
+    color: white !important;
+}
+
+.bg-main {
+    background-color: var(--colorPrimary);
+    color: white;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.bg-rose {
+    background-color: var(--colorTertiary);
+    color: white !important;
+}
+
+.text-rose {
+    color: var(--colorTertiary);
+}
+
+.text-rose-light {
+    color: var(--colorQuaternary);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.circle-top {
+    width: 25px;
+    height: 25px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    top: -3.2rem;
+    right: 6.2rem;
+    z-index: 2;
+    animation: live 3s infinite ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+@keyframes live {
+    0% {
+        background: radial-gradient(circle, #ec4444 0%, #e44e4e 7%, #743341 100%);
+        transition: all 0.5s ease-in-out;
+    }
+    50% {
+        background: radial-gradient(circle, #ec4444 0%, #e44e4e 7%, #92122d 100%);
+        transition: all 0.5s ease-in-out;
+    }
+    100% {
+        background: radial-gradient(circle, #ec4444 0%, #e44e4e 7%, #910020 100%);
+        transition: all 0.5s ease-in-out;
+    }
+}
+
+body {
+    background-color: var(--colorPrimary);
+    color: white;
+}

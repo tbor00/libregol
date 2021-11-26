@@ -1,0 +1,112 @@
+{
+    "navbar": {},
+    "home": {
+        "title": "Inicio",
+        "header": {
+            "title": "Bienvenido a LIBREGOL",
+            "subTitle": "Vas a poder disfrutar de tus partidos favoritos en tiempo real y sin pagar nada!"
+        }
+    },
+    "channels": {
+        "title": "Estos son los canales que tenemos para vos",
+        "online": "En vivo",
+        "transimition": "Transmisión en vivo del canal",
+        "tyC": {
+            "name": "TyC Sports",
+            "img": "https://librefutbol.com/img/logo-canal/TYC_Sports.webp?",
+            "text": "TYC Sports, canal argentino líder del deporte.",
+            "btnText": "Ver TyC Sports",
+            "iframe": "https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlLWxpdmUxMi1zbC5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvVHlDU3BvcnQvU0FfTGl2ZV9kYXNoX2VuY18yQS9UeUNTcG9ydC5tcGQ="
+        },
+        "tnt": {
+            "name": "TNT Sports",
+            "img": "https://librefutbol.com/img/logo-canal/TNT_Sports.png",
+            "text": "TNT Sports, canal que transmite la Superliga",
+            "btnText": "Ver TNT Sports",
+            "iframe": "https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlLWxpdmUxMi1zbC5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvVE5UX1Nwb3J0c19IRC9TQV9MaXZlX2Rhc2hfZW5jXzJBL1ROVF9TcG9ydHNfSEQubXBk"
+        },
+        "fox-sports": {
+            "name": "Fox Sports Premium",
+            "img": "https://librefutbol.com/img/logo-canal/Fox_Sports_Premium.webp",
+            "text": "Fox Sports Premium, También transmite la SAF ",
+            "btnText": "Ver Fox Sports Premium",
+            "iframe": "https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlLWxpdmUxMi1zbC5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvRm94U3BvcnRzL1NBX0xpdmVfZGFzaF9lbmNfMkEvRm94U3BvcnRzLm1wZA=="
+        },
+        "win-sports": {
+            "name": "Win Sports Premium",
+            "img": "https://librefutbol.com/img/logo-canal/Win_Sports_Premium.webp?",
+            "text": "Win Sports+, transmite el fútbol colombiano",
+            "btnText": "Ver ahora"
+        },
+        "cdf": {
+            "name": "CDF Premium",
+            "img": "https://librefutbol.com/img/logo-canal/CDF_Premium.webp",
+            "text": "CDF, canal que transmite el fútbol chileno",
+            "btnText": "Ver ahora CDF",
+            "iframe": "https://pelotero.net/cdf.php"
+        },
+        "fox-1": {
+            "name": "Fox Sports 1",
+            "img": "https://librefutbol.com/img/logo-canal/Fox_Sports.webp",
+            "text": "Toda la programación en HD del canal Fox Sports 1",
+            "btnText": "Ver ahora",
+            "iframe": "https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlLWxpdmUxMi1zbC5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvRm94U3BvcnRzL1NBX0xpdmVfZGFzaF9lbmNfMkEvRm94U3BvcnRzLm1wZA=="
+        },
+        "fox-2": {
+            "name": "Fox Sports 2",
+            "img": "https://librefutbol.com/img/logo-canal/Fox_Sports_2.webp",
+            "text": "Toda la programación en HD del canal Fox Sports 2",
+            "btnText": "Ver ahora",
+            "iframe": "https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlLWxpdmUxMi1zbC5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvRm94U3BvcnRzMkhEL1NBX0xpdmVfZGFzaF9lbmNfMkEvRm94U3BvcnRzMkhELm1wZA=="
+        },
+        "fox-3": {
+            "name": "Fox Sports 3",
+            "img": "https://librefutbol.com/img/logo-canal/Fox_Sports_3.webp",
+            "text": "Toda la programación en HD del canal Fox Sports 3",
+            "btnText": "Ver ahora",
+            "iframe": "https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlLWxpdmUxMi1zbC5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvRm94U3BvcnRzM0hEL1NBX0xpdmVfZGFzaF9lbmMvRm94U3BvcnRzM0hELm1wZA=="
+        },
+        "espn-1": {
+            "name": "ESPN 1",
+            "img": "https://librefutbol.com/img/logo-canal/ESPN.webp",
+            "text": "Toda la programación en HD del canal ESPN 1",
+            "btnText": "Ver ahora",
+            "iframe": "https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlLWxpdmUxMi1zbC5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvRVNQTjJIRC9TQV9MaXZlX2Rhc2hfZW5jXzJBL0VTUE4ySEQubXBk"
+        },
+        "espn-2": {
+            "name": "ESPN 2",
+            "img": "https://librefutbol.com/img/logo-canal/ESPN_2.webp",
+            "text": "Toda la programación en HD del canal ESPN 2",
+            "btnText": "Ver ahora",
+            "iframe": "https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlLWxpdmUxMi1zbC5jdmF0dHYuY29tLmFyL2xpdmUvYzJsaXZlL0VTUE5fSEQvU0FfTGl2ZV9kYXNoX2VuY18yQS9FU1BOX0hELm1wZA=="
+        },
+        "espn-3": {
+            "name": "ESPN 3",
+            "img": "https://librefutbol.com/img/logo-canal/ESPN_3.webp",
+            "text": "Toda la programación en HD del canal ESPN 3",
+            "btnText": "Ver ahora",
+            "iframe": "https://comoverfutbol.com/drmplayer.html?get=aHR0cHM6Ly9lZGdlLWxpdmUxMi1zbC5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvRVNQTjMvU0FfTGl2ZV9kYXNoX2VuY18yQS9FU1BOMy5tcGQKCg=="
+        },
+        "espn-extra": {
+            "name": "ESPN EXTRA",
+            "img": "https://librefutbol.com/img/logo-canal/ESPN_Extra.png",
+            "text": "Toda la programación en HD del canal ESPN EXTRA",
+            "btnText": "Ver ahora",
+            "iframe": "https://comoverfutbol.com/drmplayer.html?get=Ly9lZGdlLWxpdmUxMi1zbC5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvRVNQTkhEL1NBX0xpdmVfZGFzaF9lbmMvRVNQTkhELm1wZA=="
+        },
+        "vtv": {
+            "name": "VTV",
+            "img": "https://librefutbol.com/img/logo-canal/VTV.webp",
+            "text": "VTV, canal deportivo Uruguayo",
+            "btnText": "Ver ahora",
+            "iframe": "https://comoverfutbol.com/vtv.html"
+        },
+        "direct-tv-sports": {
+            "name": "DIRECTV SPORTS",
+            "img": "https://librefutbol.com/img/logo-canal/DirecTV_Sports.png",
+            "text": "DirecTV Sports, canal de television deportivo exclusivo de DirecTV",
+            "btnText": "Ver ahora",
+            "iframe": "https://pelotero.net/directvsports.php"
+        }
+    }
+}
